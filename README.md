@@ -5,3 +5,4 @@ Practicing exercises from the book [Head First: HTML and CSS](https://www.amazon
 Under construction. I'm doing this before my class, it's a short time, but I'm learning very well.
 
 ## Notes
+All the files are written in Portuguese/BR.
